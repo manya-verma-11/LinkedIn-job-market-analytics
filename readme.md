@@ -46,13 +46,16 @@ https://www.kaggle.com/datasets/shashankshukla123123/linkedin-job-data/versions/
 - `linkedin_job_data_cleaned.csv` — Cleaned dataset
 ## How to Run the Project
 
+
 ### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-Run the Streamlit Dashboard
+
+### Run the Streamlit Dashboard
+
 streamlit run app.py
-Live Dashboard
+
 
 https://linkedin-job-market-analytics.streamlit.app/
 
